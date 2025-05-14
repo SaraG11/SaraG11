@@ -1,4 +1,6 @@
+![portada1](https://github.com/user-attachments/assets/303a81b6-0b33-49a8-9da2-d012306e8627)
 ### Hi there 👋
+
 
 <!--
 **SaraG11/sarag11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
